@@ -1,0 +1,7 @@
+dfa:
+  username: ENTER_DFA_USERNAME_HERE
+  client_id: ENTER_CLIENT_ID_HERE
+  client_secret: ENTER_CLIENT_SECRET_HERE
+  # Refresh token can be generated using authenticate/generate_refresh_token.rb
+  refresh_token: ENTER_REFRESH_TOKEN_HERE
+  application_name: ENTER_APPLICATION_NAME_HERE
