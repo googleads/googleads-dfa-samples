@@ -4,6 +4,7 @@ This respository contains a collection of samples for interacting with the DFA A
 
 The code samples are organized by platform or language, and then API version. The following samples are available:
 
+* *php* a collection of PHP samples. 
 * *ruby* a collection of Ruby samples.
 
 Additionally, there are samples for the following languages bundled with their respective client libraries:
@@ -13,3 +14,7 @@ Additionally, there are samples for the following languages bundled with their r
 * *python* [googleads-python-lib](https://github.com/googleads/googleads-python-lib/tree/master/examples/dfa) contains a collection of Python samples.
 
 Please refer to the README.md file inside each directory for installation instructions.
+
+Contributing
+============
+Pull requests are welcome! Please sign [this Google Code contributor agreement](https://developers.google.com/open-source/cla/individual?csw=1) before submitting.
