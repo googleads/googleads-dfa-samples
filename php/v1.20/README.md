@@ -5,8 +5,11 @@ for your experimentation into the DFA API v1.20.
 
 ## Prerequisites
 
-Please make sure that you're running Ruby 1.9+ and have Composer installed. Run
-`composer install` on the example directory to install all prerequisites.
+  - PHP 5.3+
+  - SoapClient
+  - Composer
+
+From the example directory, run `composer install` to install all dependecies
 
 ## Setup Authentication
 
