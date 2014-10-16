@@ -44,7 +44,7 @@ $creativeWsdl = 'https://advertisersapi.doubleclick.net/v1.19/api/' .
     'dfa-api/creative?wsdl';
 $options = array('encoding' => 'utf-8');
 
-// Authenticate with the API and retrive auth token
+// Authenticate with the API and retrieve auth token.
 $token = DfaUtils::authenticate();
 
 // Get CreativeService.

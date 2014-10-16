@@ -36,7 +36,7 @@ $advertiserGroupWsdl = 'https://advertisersapi.doubleclick.net/v1.20/api/' .
     'dfa-api/advertisergroup?wsdl';
 $options = array('encoding' => 'utf-8');
 
-// Authenticate with the API and retrive auth token
+// Authenticate with the API and retrieve auth token.
 $token = DfaUtils::authenticate();
 
 // Get AdvertiserGroupService.
